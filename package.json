@@ -1,0 +1,14 @@
+{
+  "name": "@huyhq_syn/divide",
+  "version": "1.0.0",
+  "description": "divide 2 number",
+  "license": "MIT",
+  "repository": "huysynf/npm-package-example",
+  "main": "index.js",
+  "keywords": [
+    "divide",
+    "npm",
+    "package",
+    "huysynf"
+  ]
+}
