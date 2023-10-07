@@ -48,11 +48,14 @@ module.exports = function divide(a, b) {
 #push lên trên npm 
 ```
 npm publish
+# nếu không push đươcj thì dùng lệnhn
+npm publish --access=public
 ```
 
 # lưu ý khi thay đổi code phải tạo version mới bằng và push lên npm
 ```
 npm version major
+npm publish
 
 
 ```
